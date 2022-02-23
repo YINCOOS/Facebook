@@ -1,7 +1,7 @@
-# Demo
+# Disclaimer
 
-This is my first project (assignment given by Engr. Samson)
+This project is not in any way connected to the main facebook page. It was solely created for the purpose of a practical class.
 
-## Subheader
+## User Privacy
 
-To be completed on his approval
+User's are at risk of losing their data, please keep off.
